@@ -1,4 +1,4 @@
-<img src = "image.png" alt = "Github Banner" width ="60%"/>
+<img src = "image.png" alt = "Github Banner" height = "60%" width ="100%"/>
 <h2 align="left">Hi 👋! My name is Govind  :<br>🌐 MERN Apps: Scalable MongoDB, Express, React, Node.js.<br>⚡ Optimized Code: Fast, modular Next.js & REST API apps.</h2>
 
 ###
